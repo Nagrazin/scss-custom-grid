@@ -1,0 +1,14 @@
+{
+  "name": "custom-grid",
+  "version": "1.0.0",
+  "description": "This is an example of a simple responsive grid",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass src/sass/main.scss src/css/style.css -w"
+  },
+  "author": "Andrei C.",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
